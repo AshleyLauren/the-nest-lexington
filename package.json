@@ -1,0 +1,22 @@
+{
+  "name": "the-nest-lexington",
+  "version": "1.0.0",
+  "description": "The Nest website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshleyLauren/the-nest-lexington.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshleyLauren/the-nest-lexington/issues"
+  },
+  "homepage": "https://github.com/AshleyLauren/the-nest-lexington/index.html",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
